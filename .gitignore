@@ -1,0 +1,6 @@
+# 会话（含 token / enPublicKey / Base URL）——绝对不要提交
+.session.json
+
+node_modules/
+.DS_Store
+*.log
